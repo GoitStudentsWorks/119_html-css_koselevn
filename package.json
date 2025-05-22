@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/star-team/",
+    "build": "vite build --base=/119_html-css_koselevn/",
     "preview": "vite preview"
   },
   "devDependencies": {
